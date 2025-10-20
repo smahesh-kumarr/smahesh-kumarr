@@ -1,109 +1,107 @@
-<img width="1300" height="357" alt="image" src="https://github.com/user-attachments/assets/f721798e-0db3-4e37-93d5-eeffd50bf020" /><!-- 🌩️ Mahesh Kumar S - Cloud & DevOps Engineer -->
-
-<!-- HEADER SECTION -->
-
-
-<h1 align="center">Hi there 👋, I'm <span style="color:#00C4FF;">Mahesh Kumar S</span></h1>
-<h3 align="center">☁️ Cloud & DevOps Engineer | AWS Solutions Architect | DevSecOps & Observability Enthusiast</h3>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Mahesh Kumar S</h1>
+<h3 align="center">Cloud & DevOps Engineer | AWS Solutions Architect | DevSecOps & Observability Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:maheshkumar.s2023cse@sece.ac.in">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mahesh-kumar-s-679308291">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/smahesh-kumarr">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="mailto:maheshkumar.s2023cse@sece.ac.in"><img src="https://img.shields.io/badge/Email-maheshkumar.s2023cse@sece.ac.in-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/mahesh-kumar-s-679308291"><img src="https://img.shields.io/badge/LinkedIn-MaheshKumarS-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/smahesh-kumarr"><img src="https://img.shields.io/badge/GitHub-smahesh--kumarr-black?style=flat-square&logo=github"></a>
 </p>
 
 ---
 
-<!-- ABOUT SECTION -->
-<div align="center">
+### 💡 About Me
 
-✨ **Building Scalable & Automated Cloud Infrastructures**  
-🚀 Passionate about **AWS, Azure, and DevOps Automation Pipelines**  
-🛡️ Exploring **DevSecOps & Observability (Prometheus, Grafana, Alert Manager)**  
-💡 Strong coding foundation with **C++, JS, and problem-solving (LeetCode 150+ | CodeChef 380+)**  
-
-</div>
+- 🎯 Aspiring **Cloud & DevOps Engineer** passionate about building **scalable, secure, and automated infrastructures**.  
+- ☁️ Skilled in **AWS, Azure, and Multi-Cloud architecture** with real-world project deployments.  
+- 🧠 Exploring **DevSecOps, Observability (Prometheus, Grafana, Alert Manager)**, and advanced Kubernetes practices.  
+- 💻 Strong background in **programming (C++, JS, Shell)** and problem-solving with **LeetCode (150+)** & **CodeChef (380+)**.  
+- 🚀 Believe in continuous learning and contributing to open-source DevOps automation projects.  
 
 ---
 
-<!-- TECH STACK SECTION -->
-<h2 align="center">⚙️ Tech Stack I Work With</h2>
+### 🧰 Tech Stack
 
-<div align="center">
-  
-| ☁️ Cloud & Platforms | 🧰 DevOps Tools | 🧩 Programming | 📊 Monitoring & IaC |
-|----------------------|----------------|----------------|--------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/> <br> **AWS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/> <br> **Docker** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/> <br> **C++** | <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="50"/> <br> **Prometheus** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/> <br> **Azure** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/> <br> **Kubernetes (EKS/AKS)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> <br> **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50"/> <br> **Terraform** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/> <br> **GCP (learning)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50"/> <br> **Ansible** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/> <br> **HTML5** | <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50"/> <br> **Grafana** |
+#### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws">
+  <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+</p>
 
-</div>
+#### 🔧 Infrastructure & Tools
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Spacelift-4B32C3?style=for-the-badge&logo=spacelift&logoColor=white">
+  <img src="https://img.shields.io/badge/ArgoCD-FE6D00?style=for-the-badge&logo=argo&logoColor=white">
+</p>
 
----
-
-<!-- PROJECTS SECTION -->
-<h2 align="center">🚀 Highlight Projects</h2>
-
-<div align="center">
-
-| 💻 Project | 🧩 Description | ⚙️ Stack | 🔗 Link |
-|-------------|----------------|----------|----------|
-| **MERN App Monitoring** | Production-grade MERN app deployed on K8s with full observability (Prometheus, Grafana, Alert Manager). | MERN, K8s, Prometheus | [🔗 Repo](https://github.com/smahesh-kumarr/monitoring-project) |
-| **DevOps Pipeline Tool (MERN + AWS)** | CI/CD Pipeline Manager with AWS Infra (VPC, EC2, ALB, Route 53, ACM). | MERN, AWS | [🔗 Repo](https://github.com/smahesh-kumarr/CICD-Dashboard.git) |
-| **Infra & Config Management** | Automated AWS Infra using Terraform + Ansible on Spacelift. | Terraform, Ansible, AWS | [🔗 Repo](https://github.com/smahesh-kumarr/space_lift.git) |
-
-</div>
-
----
-
-<!-- CERTIFICATION SECTION -->
-<h2 align="center">🎓 Certifications</h2>
-
-<div align="center">
-  
-| 🏅 Certification | 🧠 Issuer | 📆 Year |
-|------------------|-----------|---------|
-| [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/bb9a3d8e-4adf-453b-ac12-702d498bf072/public_url) | AWS | 2025 |
-| [AWS Certified Cloud Practitioner](https://www.credly.com/badges/50f20519-c881-4650-bbe0-a2f53f69fd77) | AWS | 2024 |
-| [Docker Mastery with Kubernetes + Swarm](https://www.udemy.com/certificate/UC-589e9118-6d92-4254-8da3-0c2e9509899a/) | Udemy | 2025 |
-
-</div>
-
----
-
-<!-- GITHUB STATS SECTION -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smahesh-kumarr&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=smahesh-kumarr&show_icons=true&theme=react&hide_border=true" width="49%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smahesh-kumarr&layout=compact&theme=react&hide_border=true" width="45%"/>
-</div>
-
----
-
-<!-- CODING PROFILES -->
-<h2 align="center">🧩 Competitive Programming Profiles</h2>
-
-<p align="center">
-  <a href="https://leetcode.com/u/mahesh-kumarr/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.codechef.com/users/maheshkumars32"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://www.geeksforgeeks.org/user/maheshkumaseiq/"><img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+#### 💻 Programming
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
 ---
 
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F61wfvzt47nd906d21eyi.png" width="100%" alt="Cloud Footer"/>
-  <h3>🌩️ Let's Build Reliable & Scalable Cloud Systems Together 🌩️</h3>
-</div>
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|----------|--------------|-------------|-------|
+| **MERN App Monitoring** | Production-grade MERN app deployed on Kubernetes with full observability via Prometheus, Grafana, and Alert Manager. | MERN, K8s, Prometheus, Grafana | [🔗 GitHub](https://github.com/smahesh-kumarr/monitoring-project) |
+| **DevOps Pipeline Tool (MERN + AWS)** | CI/CD Pipeline Manager with secure AWS hosting using VPC, EC2, ALB, and Route53. | MERN, AWS, CI/CD | [🔗 GitHub](https://github.com/smahesh-kumarr/CICD-Dashboard.git) |
+| **Infra & Config Management** | Automated AWS infra via Terraform + Ansible integrated in Spacelift for full IaC + Config pipeline. | Terraform, Ansible, AWS | [🔗 GitHub](https://github.com/smahesh-kumarr/space_lift.git) |
+
+---
+
+### 🏆 Certifications
+
+- 🥇 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/50f20519-c881-4650-bbe0-a2f53f69fd77)
+- ☁️ [AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/badges/bb9a3d8e-4adf-453b-ac12-702d498bf072/public_url)
+- 🐳 [Docker Mastery: with Kubernetes + Swarm (Udemy)](https://www.udemy.com/certificate/UC-589e9118-6d92-4254-8da3-0c2e9509899a/)
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smahesh-kumarr&theme=tokyonight" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smahesh-kumarr&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smahesh-kumarr&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🧠 Coding Profiles
+- 💻 [LeetCode](https://leetcode.com/u/mahesh-kumarr/) – 150+ Problems Solved  
+- 🧩 [CodeChef](https://www.codechef.com/users/maheshkumars32) – 380+ Problems Solved  
+- 🧮 [GeeksForGeeks](https://www.geeksforgeeks.org/user/maheshkumaseiq/)  
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="mailto:maheshkumar.s2023cse@sece.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mahesh-kumar-s-679308291"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/smahesh-kumarr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+> 🌟 *“Automate everything, secure everything, and make it observable.”*
