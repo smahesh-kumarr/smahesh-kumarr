@@ -104,6 +104,6 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://i.imgur.com/z0Z8oSH.gif" width="100%" alt="Cloud Footer"/>
+  <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F61wfvzt47nd906d21eyi.png" width="100%" alt="Cloud Footer"/>
   <h3>🌩️ Let's Build Reliable & Scalable Cloud Systems Together 🌩️</h3>
 </div>
