@@ -1,9 +1,7 @@
-<!-- 🌩️ Mahesh Kumar S - Cloud & DevOps Engineer -->
+<img width="1300" height="357" alt="image" src="https://github.com/user-attachments/assets/f721798e-0db3-4e37-93d5-eeffd50bf020" /><!-- 🌩️ Mahesh Kumar S - Cloud & DevOps Engineer -->
 
 <!-- HEADER SECTION -->
-<div align="center">
-  <img src="https://i.imgur.com/EbI7ZUi.png" width="100%" alt="DevOps Banner"/>
-</div>
+
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#00C4FF;">Mahesh Kumar S</span></h1>
 <h3 align="center">☁️ Cloud & DevOps Engineer | AWS Solutions Architect | DevSecOps & Observability Enthusiast</h3>
@@ -100,14 +98,6 @@
   <a href="https://leetcode.com/u/mahesh-kumarr/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.codechef.com/users/maheshkumars32"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://www.geeksforgeeks.org/user/maheshkumaseiq/"><img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-</p>
-
----
-
-<!-- FUN FACT SECTION -->
-<h2 align="center">✨ Fun Fact</h2>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00C4FF&width=600&lines=Automate+everything...;Secure+everything...;And+make+it+observable!+⚙️"/>
 </p>
 
 ---
